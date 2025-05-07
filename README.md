@@ -13,4 +13,7 @@
 
 ### 📩 Latest Blog Posts from [shuirong.iYaku.ai](https://shuirong.iYaku.ai/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-05-03` | [PWA 应用图标：如何兼顾 macOS、Windows、iPad](https://shuirong.iyaku.ai/posts/pwa-%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87%E5%A6%82%E4%BD%95%E5%85%BC%E9%A1%BE-macoswindowsipad/)  
+- `2025-05-03` | [使用 Kamal 部署 Web 服务（包括 Postgres ）](https://shuirong.iyaku.ai/posts/%E4%BD%BF%E7%94%A8kamal%E9%83%A8%E7%BD%B2web%E6%9C%8D%E5%8A%A1%E5%8C%85%E6%8B%ACpostgres/)  
+
 <!-- BLOG-POST-LIST:END -->
