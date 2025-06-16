@@ -1,7 +1,7 @@
 ### Hi there, I'm shuirong 👋  
 [![Follow Me](https://img.shields.io/github/followers/shuirong?label=Follow&style=social)](https://github.com/shuirong)
 
-- 🏢 I'm working as FrontEnd Engineer at [Sparticle](https://www.sparticle.com/), based in Tokyo, where I focus on developing LLM-driven products and solutions.
+- 🏢 I'm working as Full-Stack Engineer, Stronger in Front-End at [Sparticle](https://www.sparticle.com/), based in Tokyo, where I focus on developing LLM-driven products and solutions.
 - 🌱 I’m currently playing around with Elixir, Phoenix and functional programming
 - 💬 Ask me about JavaScript/TypeScript, ReactJS/VueJS and Elixir
 - 📫 How to reach me: shuirong1997@icloud.com
