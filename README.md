@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [shuirong.iYaku.ai](https://shuirong.iYaku.ai/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-18` | [Phoenix 风格的「在系统启动时做点什么」](https://shuirong.iyaku.ai/posts/phoenix-%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%9C%A8%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E6%97%B6%E5%81%9A%E7%82%B9%E4%BB%80%E4%B9%88/)  
 - `2025-08-28` | [Phoenix：支持 Google 登录](https://shuirong.iyaku.ai/posts/phoenix%E6%94%AF%E6%8C%81-google-%E7%99%BB%E5%BD%95/)  
 - `2025-08-21` | [使用 Dokku 部署 Phoenix（含踩坑指南）](https://shuirong.iyaku.ai/posts/%E4%BD%BF%E7%94%A8-dokku-%E9%83%A8%E7%BD%B2-phoenix%E5%90%AB%E8%B8%A9%E5%9D%91%E6%8C%87%E5%8D%97/)  
 - `2025-06-08` | [换一种思路解决问题： macOS mediaanalysisd 程序占用磁盘70G](https://shuirong.iyaku.ai/posts/%E6%8D%A2%E4%B8%80%E7%A7%8D%E6%80%9D%E8%B7%AF%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98-macos-mediaanalysisd-%E7%A8%8B%E5%BA%8F%E5%8D%A0%E7%94%A8%E7%A3%81%E7%9B%9870g/)  
