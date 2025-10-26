@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [shuirong.iYaku.ai](https://shuirong.iYaku.ai/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-10-26` | [17751 部日本文学作品中有多少单词呢？](https://shuirong.iyaku.ai/posts/17751-%E9%83%A8%E6%97%A5%E6%9C%AC%E6%96%87%E5%AD%A6%E4%BD%9C%E5%93%81%E4%B8%AD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%8D%95%E8%AF%8D%E5%91%A2/)  
 - `2025-10-18` | [Phoenix 风格的「在系统启动时做点什么」](https://shuirong.iyaku.ai/posts/phoenix-%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%9C%A8%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E6%97%B6%E5%81%9A%E7%82%B9%E4%BB%80%E4%B9%88/)  
 - `2025-08-28` | [Phoenix：支持 Google 登录](https://shuirong.iyaku.ai/posts/phoenix%E6%94%AF%E6%8C%81-google-%E7%99%BB%E5%BD%95/)  
 - `2025-08-21` | [使用 Dokku 部署 Phoenix（含踩坑指南）](https://shuirong.iyaku.ai/posts/%E4%BD%BF%E7%94%A8-dokku-%E9%83%A8%E7%BD%B2-phoenix%E5%90%AB%E8%B8%A9%E5%9D%91%E6%8C%87%E5%8D%97/)  
