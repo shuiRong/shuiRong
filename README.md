@@ -9,6 +9,7 @@
 
 ### 📩 Latest Blog Posts from [shuirong.iYaku.ai](https://shuirong.iYaku.ai/)
 <!-- BLOG-POST-LIST:START -->
+- `2025-11-02` | [从调用API到构建系统：批量翻译的工程挑战](https://shuirong.iyaku.ai/posts/%E4%BB%8E%E8%B0%83%E7%94%A8api%E5%88%B0%E6%9E%84%E5%BB%BA%E7%B3%BB%E7%BB%9F%E6%89%B9%E9%87%8F%E7%BF%BB%E8%AF%91%E7%9A%84%E5%B7%A5%E7%A8%8B%E6%8C%91%E6%88%98/)  
 - `2025-10-26` | [17751 部日本文学作品中有多少单词呢？](https://shuirong.iyaku.ai/posts/17751-%E9%83%A8%E6%97%A5%E6%9C%AC%E6%96%87%E5%AD%A6%E4%BD%9C%E5%93%81%E4%B8%AD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%8D%95%E8%AF%8D%E5%91%A2/)  
 - `2025-10-18` | [Phoenix 风格的「在系统启动时做点什么」](https://shuirong.iyaku.ai/posts/phoenix-%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%9C%A8%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E6%97%B6%E5%81%9A%E7%82%B9%E4%BB%80%E4%B9%88/)  
 - `2025-08-28` | [Phoenix：支持 Google 登录](https://shuirong.iyaku.ai/posts/phoenix%E6%94%AF%E6%8C%81-google-%E7%99%BB%E5%BD%95/)  
